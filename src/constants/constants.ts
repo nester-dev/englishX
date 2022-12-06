@@ -37,8 +37,8 @@ export const GAME_BUTTONS = {
     YES: true,
     NO: false,
 };
-export const WORDS = 'https://eng-guru.herokuapp.com/words';
-export const API_BASE_LINK = 'https://eng-guru.herokuapp.com';
+export const WORDS = 'https://nester-dev-rslang.herokuapp.com/words';
+export const API_BASE_LINK = 'https://nester-dev-rslang.herokuapp.com';
 
 export const BUTTON_NAMES = ['About Us', 'TextBook', 'Games', 'Statistic'];
 export const VALID_COLOR_GREEN = 'rgb(211, 255, 233)';
